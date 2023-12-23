@@ -2,8 +2,8 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "Apartados"
-    url: /apartados/
+    url: /categories/
   - title: "Etiquetas"
-    url: /etiquetas/
+    url: /tags/
   - title: "Acerca de"
-    url: /acercade/
+    url: /acercademi/
