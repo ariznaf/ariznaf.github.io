@@ -13,8 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "es-ES"
 title: "El rincón de la Geotecnia"
-email:
+email: "ariznaf@uniovi.es"
 description:  "Cuaderno de bitácora personal donde publicar información sobre el mundo de la Geotecnia y la educación superior"
 github_username: "ariznaf"
 minimal_mistakes_skin: dark
@@ -28,7 +29,6 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone:  "Europe/Madrid"
-locale: "es-ES"
 
 include:
   - _pages
