@@ -2,7 +2,7 @@
 title: Proyecto de medición de convergencias en un túnel.
 apartados: investigación
 etiquetas: convergencias, instumentación
-layout:posts
+layout: posts
 ---
 Proyecto de investigación en colaboración con la empresa OCA (Obra civil asturiana).
 Se desarrolló un sistema automático para la medición continua de la convergencia en varios puntos de una sección de un túnel
