@@ -1,5 +1,6 @@
 ---
 title: "Acerca de Mi"
+layout: page
 ---
 
 Mi nombre es Fernando Ariznavarreta Fernández.

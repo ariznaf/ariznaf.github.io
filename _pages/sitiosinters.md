@@ -1,6 +1,7 @@
 ---
 title: Sitios interés
 subtitle: Una lista de sitios de interés relacionados con la Geotecnia o las herramientas que utilizmos
+layout: page
 ---
 # Sitios relacionados con la Geotecnia
 Sitios que consideramos interesantes relacionados con la geotecnia:
