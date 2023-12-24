@@ -1,6 +1,5 @@
 ---
 title: "Acerca de Mi"
-permalink: /acercademi/
 ---
 
 Mi nombre es Fernando Ariznavarreta Fernández.
