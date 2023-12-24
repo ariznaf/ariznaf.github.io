@@ -1,4 +1,4 @@
 ---
-title: Apuntes me mecánica de rocas
-layout: 
+title: Apuntes sobre geotecnia
+layout: posts
 ---
