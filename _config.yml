@@ -110,3 +110,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /etiquetas/
+collections:
+   sections:
+     output: false
+   apuntes:
+     output: true
+   proyectos:
+     output: true
+

@@ -5,5 +5,9 @@ main:
     url: /apartados/
   - title: "Etiquetas"
     url: /etiquetas/
+  - title: "Proyectos"
+    url: /proyectos/
+  - title: "Apuntes"
+    url: /apuntes/
   - title: "Acerca de Mi"
     url: /acercademi/
