@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: posts
 title: Proyectos
 collection: apuntes
 icon: fa-drafting-compass
