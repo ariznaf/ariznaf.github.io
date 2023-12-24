@@ -1,7 +1,6 @@
 ---
-layout: posts
 title: Proyectos
-collection: apuntes
+layout: posts
 icon: fa-drafting-compass
 order: 2
 ---
