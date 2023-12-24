@@ -1,4 +1,5 @@
 ---
 title: Apuntes sobre geotecnia
-layout: posts
+layout: collection
+collection: apuntes
 ---
